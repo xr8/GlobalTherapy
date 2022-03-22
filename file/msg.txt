@@ -1,0 +1,6 @@
+  Alias  /server "D:/Server/"
+  <Directory "D:/Server/" >
+          Options Indexes FollowSymLinks
+          AllowOverride none
+          Require all granted
+  </Directory>

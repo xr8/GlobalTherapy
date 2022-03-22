@@ -1,0 +1,20 @@
+DEBUG - 2022-03-20 03:01:24 --> No URI present. Default controller set.
+ERROR - 2022-03-20 03:01:24 --> Severity: Warning --> Undefined global variable $_SESSION D:\Server\DevOps\GlobalTherapy\web\application\views\loop\footer.php 36
+ERROR - 2022-03-20 03:01:24 --> Severity: Warning --> Trying to access array offset on value of type null D:\Server\DevOps\GlobalTherapy\web\application\views\loop\footer.php 36
+DEBUG - 2022-03-20 03:35:52 --> No URI present. Default controller set.
+ERROR - 2022-03-20 03:35:53 --> Severity: Warning --> Undefined global variable $_SESSION D:\Server\DevOps\GlobalTherapy\web\application\views\loop\footer.php 1
+ERROR - 2022-03-20 03:35:53 --> Severity: Warning --> Trying to access array offset on value of type null D:\Server\DevOps\GlobalTherapy\web\application\views\loop\footer.php 1
+DEBUG - 2022-03-20 03:40:40 --> No URI present. Default controller set.
+DEBUG - 2022-03-20 03:44:20 --> No URI present. Default controller set.
+ERROR - 2022-03-20 03:44:20 --> Severity: error --> Exception: Undefined constant "page_title" D:\Server\DevOps\GlobalTherapy\web\application\views\loop\header.php 12
+ERROR - 2022-03-20 03:44:20 --> Severity: Warning --> include(D:\Server\DevOps\GlobalTherapy\web\application\views\errors\html\error_exception.php): Failed to open stream: No such file or directory D:\Server\DevOps\GlobalTherapy\web\system\core\Exceptions.php 227
+ERROR - 2022-03-20 03:44:20 --> Severity: Warning --> include(): Failed opening 'D:\Server\DevOps\GlobalTherapy\web\application\views\errors\html\error_exception.php' for inclusion (include_path='.;C:\php\pear') D:\Server\DevOps\GlobalTherapy\web\system\core\Exceptions.php 227
+DEBUG - 2022-03-20 03:44:31 --> No URI present. Default controller set.
+DEBUG - 2022-03-20 04:13:26 --> No URI present. Default controller set.
+DEBUG - 2022-03-20 04:13:54 --> No URI present. Default controller set.
+DEBUG - 2022-03-20 04:19:45 --> No URI present. Default controller set.
+DEBUG - 2022-03-20 04:21:08 --> No URI present. Default controller set.
+DEBUG - 2022-03-20 04:21:48 --> No URI present. Default controller set.
+DEBUG - 2022-03-20 04:28:57 --> No URI present. Default controller set.
+DEBUG - 2022-03-20 04:39:59 --> No URI present. Default controller set.
+DEBUG - 2022-03-20 04:40:00 --> No URI present. Default controller set.

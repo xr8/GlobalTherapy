@@ -17,6 +17,8 @@ class Inicio extends CI_Controller
         $data['sub_page_title2'] = 'Login';
         $data['css']             = 'user';
         $data['js']              = 'libs,GlobalTherapy,utility,main';
+        $rand = rand(1,3);
+        $data['logo']            = CDN_URL."img/inicio/logo".$rand.".svg";
 
             $this->load->view('loop/header', $data);
             $this->load->view('loop/top'   , $data);

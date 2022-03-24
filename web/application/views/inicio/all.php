@@ -643,67 +643,41 @@
                 <div class="col-lg-12 col-md-12">
                     <!--Commen Title-->
                     <div class="common-title padding-bottom-50">
-                        <h2 class="heading">Make an appointment</h2>
+                        <h2 class="heading">Información, Ventas Y Distribución.</h2>
                     </div>
                 </div>
                 <div class="col-lg-12 col-md-12 px-4">
                     <div class="appointment-content">
                         <div class="tab-content">
                             <div class="appointment-img-area">
-                                <img src="<?php echo CDN_URL; ?>img/04.png" alt="img">
-                                <div class="doctor-info">
-                                    <div class="name">
-                                        <h6 class="heading-06"> Dr George Abdreas Pompeia</h6>
-                                    </div>
-                                    <div class="designation">
-                                        <span>Specialist cardiologue</span>
-                                    </div>
-                                </div>
+                            <img src="<?php echo CDN_URL; ?>img/inicio/infovendis.jpg" alt="img">
                             </div>
                             <div class="appointment-form-area">
                                 <form>
                                     <div class="row">
                                         <div class="col-lg-6">
-                                            <input type="text" name="your_name" placeholder="Your Name" class="form-control margin-15">
-                                            <input type="email" name="your_email" placeholder="Your Email" class="form-control margin-15">
-                                            <div class="custom-select margin-15">
-                                                <select>
-                                                    <option>Doctor Name</option>
-                                                    <option>Doctor Name</option>
-                                                    <option>Doctor Name</option>
-                                                    <option>Doctor Name</option>
-                                                </select>
-                                            </div>
+                                            <input type="text"  name="your_name"  placeholder="Nombre"    class="form-control margin-15">
+                                            <input type="email" name="your_email" placeholder="Em@il"     class="form-control margin-15">
+                                            <input type="phone" name="your_email" placeholder="Telefono"  class="form-control margin-15">
+
                                         </div>
                                         <div class="col-lg-6">
+
                                             <div class="custom-select margin-15">
                                                 <select>
-                                                    <option selected>Your Gender</option>
-                                                    <option>Male</option>
-                                                    <option>Female</option>
+                                                    <option>Nuestros Productos</option>
+                                                    <option>Derma Wrinkles</option>
+                                                    <option>Derma Evolution Plus Deep</option>
+                                                    <option>Derma Evolution Plus Kiss</option>
                                                 </select>
-                                            </div>
-                                            <div class="calendar-icon margin-15">
-                                                <span class="calendar">
-                                                    <label for="datepicker2">
-                                                        <input type="text" id="datepicker2" class="form-control" autocomplete="off" placeholder="Date">
-                                                    </label>
-                                                </span>
-                                                <span class="icon"><i class="fas fa-calendar-week"></i></span>
                                             </div>
                                             <div class="custom-select margin-15">
-                                                <select>
-                                                    <option selected>Department</option>
-                                                    <option>Department</option>
-                                                    <option>Department</option>
-                                                    <option>Department</option>
-                                                    <option>Department</option>
-                                                </select>
+                                            <textarea name="textarea" rows="10" cols="50" class="tab-content form-control" placeholder="Tu pregunta."></textarea>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="main-btn-wrap style-02">
-                                        <input class="main-btn" type="submit" value="Make Appointment">
+                                        <input class="main-btn" type="submit" value="Enviar tu pregunta">
                                     </div>
                                 </form>
                                 <!--// Form End-->
@@ -1008,13 +982,13 @@
                         <a href="#"><img src="<?php echo $logo; ?>" alt="Nav Logo" style="height: 75px;"></a>
                         <ul>
                             <li>
-                                <span class="icon"><i class="far fa-envelope"></i></span> fortis@gmail.com
+                                <span class="icon"><i class="far fa-envelope"></i></span> ventas@globaltherapy.com.mx/
                             </li>
                             <li>
-                                <span class="icon"><i class="fas fa-phone"></i></span>+230 437 4438
+                                <span class="icon"><i class="fas fa-phone"></i></span>+52 (646) 1234567
                             </li>
                             <li>
-                                <span class="icon"> <i class="fas fa-map-marker-alt"></i></span>Gladstone, Rose hill
+                                <span class="icon"> <i class="fas fa-map-marker-alt"></i></span>Ensenada Baja California, México.
                             </li>
                         </ul>
                         <div class="footer-social-icon">
@@ -1049,11 +1023,12 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="subscribe-area">
                         <div class="footer-widget widget">
-                            <h4 class="widget-title">Ventas y distribución</h4>
-                            <p>Nos ponemos en contacto contigo dejamos tu email o tu teléfono. A la brevedad nos comunicaremos.</p>
+                            <h4 class="widget-title">Ventas Y Distribución</h4>
+                            <p>Nos ponemos en contacto contigo dejamos tu email</p>
+                            <p>a la brevedad nos comunicaremos.</p>
                             <form>
                                 <div class="input-group">
-                                    <input type="email" class="form-control" placeholder="Enter email O tel">
+                                    <input type="email" class="form-control" placeholder="Em@il">
                                     <div class="input-group-append">
                                         <div class="input-group-text">
                                             <input type="submit" value="Subscribe">
@@ -1074,7 +1049,7 @@
                     <div class="copyright-area-inner" style="background-color:white;">
                         <span>&copy; Copyright 2022 GLOBAL THERAPY INTERNACIONAL</span>
                         <br>
-                        <span>Made with  <span class="coypright-icon"><i class="fas fa-heart"></i></span>in Ensenada, Mx.</span>
+                        <span>Made with  <span class="coypright-icon"><i class="fas fa-heart"></i></span>in Ensenada BC, MX.</span>
                     </div>
                 </div>
             </div>

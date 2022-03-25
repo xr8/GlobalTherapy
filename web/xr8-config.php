@@ -88,7 +88,7 @@ if (ZONA == "local") {
 
   define("BASE_URL",'http://globaltherapy.com.mx/');
 
-  define("APP_URL","http://globaltherapy.com.mx/");
+  define("APP_URL","");
   define("API_URL","http://api.globaltherapy.com.mx/");
   define("CDN_URL","http://cdn.globaltherapy.com.mx/");
 

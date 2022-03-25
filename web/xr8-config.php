@@ -86,11 +86,11 @@ if (ZONA == "local") {
   //----->
   define("TITLE", PAGETITLE);
 
-  define("BASE_URL",'http://globaltherapy.com.mx/');
+  define("BASE_URL",'//globaltherapy.com.mx/');
 
   define("APP_URL","");
-  define("API_URL","http://api.globaltherapy.com.mx/");
-  define("CDN_URL","http://cdn.globaltherapy.com.mx/");
+  define("API_URL","//api.globaltherapy.com.mx/");
+  define("CDN_URL","//cdn.globaltherapy.com.mx/");
 
   define("INDEX_PAGE"    ,APP_URL.'');
   define("DEFAULTROUTER" ,'inicio');

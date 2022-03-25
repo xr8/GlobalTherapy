@@ -84,16 +84,16 @@ if (ZONA == "local") {
     //----->
 }else{
   //----->
-  define("TITLE", PAGETITLE ." Money online - ");
+  define("TITLE", PAGETITLE);
 
-  define("BASE_URL",'//escuela.labs26.com/');
+  define("BASE_URL",'http://globaltherapy.com.mx/');
 
-  define("APP_URL",BASE_URL."Escuela-APP/");
-  define("API_URL",BASE_URL."Escuela-API/");
-  define("CDN_URL",BASE_URL."Escuela-CDN/Escuela-CDN-app/");
+  define("APP_URL","http://globaltherapy.com.mx/");
+  define("API_URL","http://api.globaltherapy.com.mx/");
+  define("CDN_URL","http://cdn.globaltherapy.com.mx/");
 
-  define("INDEX_PAGE", APP_URL.'');
-  define("DEFAULTROUTER", 'user/login');
+  define("INDEX_PAGE"    ,APP_URL.'');
+  define("DEFAULTROUTER" ,'inicio');
 
   define("HOSTNAME", 'labs26.com');
   define("USERNAME", 'escuela');

@@ -650,38 +650,55 @@
                     <div class="appointment-content">
                         <div class="tab-content">
                             <div class="appointment-img-area">
-                            <img src="<?php echo CDN_URL; ?>img/inicio/infovendis.jpg" alt="img">
+                                <img src="<?php echo CDN_URL; ?>img/inicio/infovendis.jpg" alt="img">
                             </div>
-                            <div class="appointment-form-area">
+                            <div class="appointment-form-area"> 
                                 <form>
                                     <div class="row">
                                         <div class="col-lg-6">
-                                            <input type="text"  name="your_name"  placeholder="Nombre"    class="form-control margin-15">
-                                            <input type="email" name="your_email" placeholder="Em@il"     class="form-control margin-15">
-                                            <input type="phone" name="your_email" placeholder="Telefono"  class="form-control margin-15">
-
-                                        </div>
-                                        <div class="col-lg-6">
-
+                                            <input type="text" name="your_name" placeholder="Your Name" class="form-control margin-15">
+                                            <input type="email" name="your_email" placeholder="Your Email" class="form-control margin-15">                                            
                                             <div class="custom-select margin-15">
                                                 <select>
-                                                    <option>Nuestros Productos</option>
-                                                    <option>Derma Wrinkles</option>
-                                                    <option>Derma Evolution Plus Deep</option>
-                                                    <option>Derma Evolution Plus Kiss</option>
+                                                    <option>Doctor Name</option>
+                                                    <option>Doctor Name</option>
+                                                    <option>Doctor Name</option>
+                                                    <option>Doctor Name</option>
                                                 </select>
                                             </div>
+                                        </div>
+
+                                        <div class="col-lg-6">
                                             <div class="custom-select margin-15">
-                                            <textarea name="textarea" rows="10" cols="50" class="tab-content form-control" placeholder="Tu pregunta."></textarea>
+                                                <select>
+                                                    <option selected="">Your Gender</option>
+                                                    <option>Male</option>
+                                                    <option>Female</option>
+                                                </select>
                                             </div>
+
+                                            <div class="calendar-icon margin-15">
+                                                <span class="calendar">
+                                                    <label for="datepicker2">
+                                                        <input type="text" id="datepicker2" class="form-control hasDatepicker" autocomplete="off" placeholder="Date">
+                                                    </label>                                                
+                                                    </span>
+                                                <span class="icon"><i class="fas fa-calendar-week"></i></span>
+                                            </div>
+
+                                            <div class="margin-15">
+                                                <textarea class="form-control" rows="10" id="Message">Question</textarea>
+                                            </div>
+
                                         </div>
                                     </div>
                                     <div class="main-btn-wrap style-02">
-                                        <input class="main-btn" type="submit" value="Enviar tu pregunta">
+                                        <input class="main-btn" type="submit" value="Make Appointment">
                                     </div>
                                 </form>
                                 <!--// Form End-->
                             </div>
+
                         </div>
                     </div>
                 </div>

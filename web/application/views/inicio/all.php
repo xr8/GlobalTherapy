@@ -255,6 +255,91 @@
 
                 <!--slider strar-->
                 <div class="home-slider-wrapper">
+                    
+                    <!--DERMA EVOLUTION PLUS DEEP-->
+                    <div class="slider-items">
+                        <div class="slider-content-area">
+                            <div class="slider-content">
+                                <h1 class="slider-heading">DERMA EVOLUTION PLUS DEEP</h1>
+                                <div class="padding-30">
+                                    <h4>Cross-Linked Hyaluronic Acid</h4>
+                                </div>
+                                <div class="main-btn-wrap">
+                                    <a href="#" class="main-btn">Conoce más de este producto.</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slider-img" style="background-image: url(<?php echo CDN_URL; ?>img/inicio/s1_Derma_Evolution_Plus_Deep.jpg)">
+                        </div>
+                    </div>
+
+                    <!--DERMA EVOLUTION PLUS KISS-->
+                    <div class="slider-items">
+                        <div class="slider-content-area">
+                            <div class="slider-content">
+                                <h1 class="slider-heading">DERMA EVOLUTION PLUS KISS</h1>
+                                <div class="padding-30">
+                                    <h4>Cross-Linked Hyaluronic Acid</h4>
+                                </div>
+                                <div class="main-btn-wrap">
+                                    <a href="#" class="main-btn">Conoce más de este producto.</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slider-img" style="background-image: url(<?php echo CDN_URL; ?>img/inicio/s2_Derma_Evolution_Plus_Kiss.jpg)">
+                        </div>
+                    </div>
+
+                    <!--DERMA EVOLUTION DEEP-->
+                    <div class="slider-items">
+                        <div class="slider-content-area">
+                            <div class="slider-content">
+                                <h1 class="slider-heading">DERMA EVOLUTION DEEP</h1>
+                                <div class="padding-30">
+                                    <h4>Ácido Hialurónico Con Lidocaina</h4>
+                                </div>
+                                <div class="main-btn-wrap">
+                                    <a href="#" class="main-btn">Conoce más de este producto.</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slider-img" style="background-image: url(<?php echo CDN_URL; ?>img/inicio/s3_Derma_Evolution_Deep.jpg)">
+                        </div>
+                    </div>
+
+                    <!--DERMA WRINKLES-->
+                    <div class="slider-items">
+                        <div class="slider-content-area">
+                            <div class="slider-content">
+                                <h1 class="slider-heading">DERMA WRINKLES</h1>
+                                <div class="padding-30">
+                                    <h4>Toxina Botulinica tipo A 100U</h4>
+                                </div>
+                                <div class="main-btn-wrap">
+                                    <a href="#" class="main-btn">Conoce más de este producto.</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slider-img" style="background-image: url(<?php echo CDN_URL; ?>img/inicio/s4_Derma_Wrinkles.jpg)">
+                        </div>
+                    </div>
+
+                    <!--slider item-->
+                    <div class="slider-items">
+                        <div class="slider-content-area">
+                            <div class="slider-content">
+                                <h1 class="slider-heading">GLUTATIONE FOR INJECTION</h1>
+                                <div class="padding-30">
+                                    <h4>5 Vials/Box  1.8g</h4>
+                                </div>
+                                <div class="main-btn-wrap">
+                                    <a href="#" class="main-btn">Conoce más de este producto.</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slider-img" style="background-image: url(<?php echo CDN_URL; ?>img/inicio/s5_Glutatione_For_Injectio.jpg)">
+                        </div>
+                    </div>
                     <!--slider item-->
                     <div class="slider-items">
                         <div class="slider-content-area">
@@ -268,42 +353,75 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="slider-img" style="background-image: url(<?php echo CDN_URL; ?>img/inicio/slider1.jpg)">
-                        </div>
-                    </div>
-                    <!--slider item-->
-                    <div class="slider-items">
-                        <div class="slider-content-area">
-                            <div class="slider-content">
-                                <h1 class="slider-heading">DERMA EVOLUTION PLUS DEEP</h1>
-                                <div class="padding-30">
-                                    <h4>Gel de ácido hialurónico 24 mg/mL</h4>
-                                </div>
-                                <div class="main-btn-wrap">
-                                    <a href="#" class="main-btn">Conoce más de este producto.</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slider-img" style="background-image: url(<?php echo CDN_URL; ?>img/inicio/slider2.jpg)">
-                        </div>
-                    </div>
-                    <!--slider item-->
-                    <div class="slider-items">
-                        <div class="slider-content-area">
-                            <div class="slider-content">
-                                <h1 class="slider-heading">DERMA EVOLUTION PLUS KISS</h1>
-                                <div class="padding-30">
-                                    <h4>Gel de ácido hialurónico 24 mg/mL</h4>
-                                </div>
-                                <div class="main-btn-wrap">
-                                    <a href="#" class="main-btn">Conoce más de este producto.</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slider-img" style="background-image: url(<?php echo CDN_URL; ?>img/inicio/slider3.jpg)">
+                        <div class="slider-img" style="background-image: url(<?php echo CDN_URL; ?>img/inicio/s6_Acido_Hialuronico_Topico.jpg)">
                         </div>
                     </div>
 
+                    <!--slider item-->
+                    <div class="slider-items">
+                        <div class="slider-content-area">
+                            <div class="slider-content">
+                                <h1 class="slider-heading">DERMA WRINKLES</h1>
+                                <div class="padding-30">
+                                    <h4>Toxina Botulínica Tipo A 100 UI</h4>
+                                </div>
+                                <div class="main-btn-wrap">
+                                    <a href="#" class="main-btn">Conoce más de este producto.</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slider-img" style="background-image: url(<?php echo CDN_URL; ?>img/inicio/s7_Gel_Astringente.jpg)">
+                        </div>
+                    </div>
+                    <!--slider item-->
+                    <div class="slider-items">
+                        <div class="slider-content-area">
+                            <div class="slider-content">
+                                <h1 class="slider-heading">DERMA WRINKLES</h1>
+                                <div class="padding-30">
+                                    <h4>Toxina Botulínica Tipo A 100 UI</h4>
+                                </div>
+                                <div class="main-btn-wrap">
+                                    <a href="#" class="main-btn">Conoce más de este producto.</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slider-img" style="background-image: url(<?php echo CDN_URL; ?>img/inicio/s8_Luvenis.jpg)">
+                        </div>
+                    </div>
+                    <!--slider item-->
+                    <div class="slider-items">
+                        <div class="slider-content-area">
+                            <div class="slider-content">
+                                <h1 class="slider-heading">DERMA WRINKLES</h1>
+                                <div class="padding-30">
+                                    <h4>Toxina Botulínica Tipo A 100 UI</h4>
+                                </div>
+                                <div class="main-btn-wrap">
+                                    <a href="#" class="main-btn">Conoce más de este producto.</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slider-img" style="background-image: url(<?php echo CDN_URL; ?>img/inicio/s9_Triamcinolone_Acetonide_Injection.jpg)">
+                        </div>
+                    </div>
+
+                    <!--slider item-->
+                    <div class="slider-items">
+                        <div class="slider-content-area">
+                            <div class="slider-content">
+                                <h1 class="slider-heading">DERMA WRINKLES</h1>
+                                <div class="padding-30">
+                                    <h4>Toxina Botulínica Tipo A 100 UI</h4>
+                                </div>
+                                <div class="main-btn-wrap">
+                                    <a href="#" class="main-btn">Conoce más de este producto.</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slider-img" style="background-image: url(<?php echo CDN_URL; ?>img/inicio/s10_Glutatione_For_Injection.jpg)">
+                        </div>
+                    </div>
                 </div>
                 <!--slidr end-->
                 <div class="social-icon">

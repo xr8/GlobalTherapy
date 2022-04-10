@@ -406,22 +406,6 @@
                         </div>
                     </div>
 
-                    <!--slider item-->
-                    <div class="slider-items">
-                        <div class="slider-content-area">
-                            <div class="slider-content">
-                                <h1 class="slider-heading">DERMA WRINKLES</h1>
-                                <div class="padding-30">
-                                    <h4>Toxina Botulínica Tipo A 100 UI</h4>
-                                </div>
-                                <div class="main-btn-wrap">
-                                    <a href="#" class="main-btn">Conoce más de este producto.</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slider-img" style="background-image: url(<?php echo CDN_URL; ?>img/inicio/s10_Glutatione_For_Injection.jpg)">
-                        </div>
-                    </div>
                 </div>
                 <!--slidr end-->
                 <div class="social-icon">

@@ -1,0 +1,108 @@
+INFO - 2022-04-10 01:05:54 --> Config Class Initialized
+INFO - 2022-04-10 01:05:54 --> Hooks Class Initialized
+INFO - 2022-04-10 01:05:54 --> UTF-8 Support Enabled
+INFO - 2022-04-10 01:05:54 --> Utf8 Class Initialized
+INFO - 2022-04-10 01:05:54 --> URI Class Initialized
+DEBUG - 2022-04-10 01:05:54 --> No URI present. Default controller set.
+INFO - 2022-04-10 01:05:54 --> Router Class Initialized
+INFO - 2022-04-10 01:05:54 --> Output Class Initialized
+INFO - 2022-04-10 01:05:54 --> Security Class Initialized
+INFO - 2022-04-10 01:05:54 --> Input Class Initialized
+INFO - 2022-04-10 01:05:54 --> Language Class Initialized
+INFO - 2022-04-10 01:05:54 --> Loader Class Initialized
+INFO - 2022-04-10 01:05:54 --> Helper loaded: url_helper
+INFO - 2022-04-10 01:05:54 --> Helper loaded: string_helper
+INFO - 2022-04-10 01:05:54 --> Helper loaded: date_helper
+INFO - 2022-04-10 01:05:54 --> Helper loaded: array_helper
+INFO - 2022-04-10 01:05:54 --> Helper loaded: security_helper
+INFO - 2022-04-10 01:05:54 --> Helper loaded: text_helper
+INFO - 2022-04-10 01:05:54 --> Helper loaded: session_helper
+INFO - 2022-04-10 01:05:54 --> Controller Class Initialized
+INFO - 2022-04-10 01:05:54 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/header.php
+INFO - 2022-04-10 01:05:54 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/top.php
+INFO - 2022-04-10 01:05:54 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\inicio/all.php
+INFO - 2022-04-10 01:05:54 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/bottom.php
+INFO - 2022-04-10 01:05:54 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/footer.php
+INFO - 2022-04-10 01:05:54 --> Final output sent to browser
+INFO - 2022-04-10 01:05:54 --> Total execution time: 0.0533
+INFO - 2022-04-10 01:06:37 --> Config Class Initialized
+INFO - 2022-04-10 01:06:37 --> Hooks Class Initialized
+INFO - 2022-04-10 01:06:37 --> UTF-8 Support Enabled
+INFO - 2022-04-10 01:06:37 --> Utf8 Class Initialized
+INFO - 2022-04-10 01:06:37 --> URI Class Initialized
+DEBUG - 2022-04-10 01:06:37 --> No URI present. Default controller set.
+INFO - 2022-04-10 01:06:37 --> Router Class Initialized
+INFO - 2022-04-10 01:06:37 --> Output Class Initialized
+INFO - 2022-04-10 01:06:37 --> Security Class Initialized
+INFO - 2022-04-10 01:06:37 --> Input Class Initialized
+INFO - 2022-04-10 01:06:37 --> Language Class Initialized
+INFO - 2022-04-10 01:06:37 --> Loader Class Initialized
+INFO - 2022-04-10 01:06:37 --> Helper loaded: url_helper
+INFO - 2022-04-10 01:06:37 --> Helper loaded: string_helper
+INFO - 2022-04-10 01:06:37 --> Helper loaded: date_helper
+INFO - 2022-04-10 01:06:37 --> Helper loaded: array_helper
+INFO - 2022-04-10 01:06:37 --> Helper loaded: security_helper
+INFO - 2022-04-10 01:06:37 --> Helper loaded: text_helper
+INFO - 2022-04-10 01:06:37 --> Helper loaded: session_helper
+INFO - 2022-04-10 01:06:37 --> Controller Class Initialized
+INFO - 2022-04-10 01:06:37 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/header.php
+INFO - 2022-04-10 01:06:37 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/top.php
+INFO - 2022-04-10 01:06:37 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\inicio/all.php
+INFO - 2022-04-10 01:06:37 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/bottom.php
+INFO - 2022-04-10 01:06:37 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/footer.php
+INFO - 2022-04-10 01:06:37 --> Final output sent to browser
+INFO - 2022-04-10 01:06:37 --> Total execution time: 0.0610
+INFO - 2022-04-10 01:31:50 --> Config Class Initialized
+INFO - 2022-04-10 01:31:50 --> Hooks Class Initialized
+INFO - 2022-04-10 01:31:50 --> UTF-8 Support Enabled
+INFO - 2022-04-10 01:31:50 --> Utf8 Class Initialized
+INFO - 2022-04-10 01:31:50 --> URI Class Initialized
+DEBUG - 2022-04-10 01:31:50 --> No URI present. Default controller set.
+INFO - 2022-04-10 01:31:50 --> Router Class Initialized
+INFO - 2022-04-10 01:31:50 --> Output Class Initialized
+INFO - 2022-04-10 01:31:50 --> Security Class Initialized
+INFO - 2022-04-10 01:31:50 --> Input Class Initialized
+INFO - 2022-04-10 01:31:50 --> Language Class Initialized
+INFO - 2022-04-10 01:31:50 --> Loader Class Initialized
+INFO - 2022-04-10 01:31:50 --> Helper loaded: url_helper
+INFO - 2022-04-10 01:31:50 --> Helper loaded: string_helper
+INFO - 2022-04-10 01:31:50 --> Helper loaded: date_helper
+INFO - 2022-04-10 01:31:50 --> Helper loaded: array_helper
+INFO - 2022-04-10 01:31:50 --> Helper loaded: security_helper
+INFO - 2022-04-10 01:31:50 --> Helper loaded: text_helper
+INFO - 2022-04-10 01:31:50 --> Helper loaded: session_helper
+INFO - 2022-04-10 01:31:50 --> Controller Class Initialized
+INFO - 2022-04-10 01:31:50 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/header.php
+INFO - 2022-04-10 01:31:50 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/top.php
+INFO - 2022-04-10 01:31:50 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\inicio/all.php
+INFO - 2022-04-10 01:31:50 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/bottom.php
+INFO - 2022-04-10 01:31:50 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/footer.php
+INFO - 2022-04-10 01:31:50 --> Final output sent to browser
+INFO - 2022-04-10 01:31:50 --> Total execution time: 0.2107
+INFO - 2022-04-10 01:46:01 --> Config Class Initialized
+INFO - 2022-04-10 01:46:01 --> Hooks Class Initialized
+INFO - 2022-04-10 01:46:01 --> UTF-8 Support Enabled
+INFO - 2022-04-10 01:46:01 --> Utf8 Class Initialized
+INFO - 2022-04-10 01:46:01 --> URI Class Initialized
+DEBUG - 2022-04-10 01:46:01 --> No URI present. Default controller set.
+INFO - 2022-04-10 01:46:01 --> Router Class Initialized
+INFO - 2022-04-10 01:46:01 --> Output Class Initialized
+INFO - 2022-04-10 01:46:01 --> Security Class Initialized
+INFO - 2022-04-10 01:46:01 --> Input Class Initialized
+INFO - 2022-04-10 01:46:01 --> Language Class Initialized
+INFO - 2022-04-10 01:46:01 --> Loader Class Initialized
+INFO - 2022-04-10 01:46:01 --> Helper loaded: url_helper
+INFO - 2022-04-10 01:46:01 --> Helper loaded: string_helper
+INFO - 2022-04-10 01:46:01 --> Helper loaded: date_helper
+INFO - 2022-04-10 01:46:01 --> Helper loaded: array_helper
+INFO - 2022-04-10 01:46:01 --> Helper loaded: security_helper
+INFO - 2022-04-10 01:46:01 --> Helper loaded: text_helper
+INFO - 2022-04-10 01:46:01 --> Helper loaded: session_helper
+INFO - 2022-04-10 01:46:01 --> Controller Class Initialized
+INFO - 2022-04-10 01:46:01 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/header.php
+INFO - 2022-04-10 01:46:01 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/top.php
+INFO - 2022-04-10 01:46:01 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\inicio/all.php
+INFO - 2022-04-10 01:46:01 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/bottom.php
+INFO - 2022-04-10 01:46:01 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/footer.php
+INFO - 2022-04-10 01:46:01 --> Final output sent to browser
+INFO - 2022-04-10 01:46:01 --> Total execution time: 0.0690

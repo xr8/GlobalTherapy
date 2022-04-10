@@ -1,2 +1,0 @@
-DEBUG - 2022-04-08 03:20:12 --> No URI present. Default controller set.
-DEBUG - 2022-04-08 12:30:55 --> No URI present. Default controller set.

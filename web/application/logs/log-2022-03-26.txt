@@ -1,1 +1,0 @@
-DEBUG - 2022-03-26 02:31:58 --> No URI present. Default controller set.

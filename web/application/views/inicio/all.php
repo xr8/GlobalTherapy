@@ -296,7 +296,7 @@
                             <div class="slider-content">
                                 <h1 class="slider-heading">DERMA EVOLUTION DEEP</h1>
                                 <div class="padding-30">
-                                    <h4>Ácido Hialurónico Con Lidocaina</h4>
+                                    <h4>Ácido Hialurónico con Lidocaína Gel Inyectabe</h4>
                                 </div>
                                 <div class="main-btn-wrap">
                                     <a href="#" class="main-btn">Conoce más de este producto.</a>
@@ -324,7 +324,7 @@
                         </div>
                     </div>
 
-                    <!--slider item-->
+                    <!--GLUTATIONE FOR INJECTION-->
                     <div class="slider-items">
                         <div class="slider-content-area">
                             <div class="slider-content">
@@ -340,13 +340,15 @@
                         <div class="slider-img" style="background-image: url(<?php echo CDN_URL; ?>img/inicio/s5_Glutatione_For_Injectio.jpg)">
                         </div>
                     </div>
-                    <!--slider item-->
+
+                    <!--Ácido Hialuronico Tópico-->
                     <div class="slider-items">
+                        
                         <div class="slider-content-area">
                             <div class="slider-content">
-                                <h1 class="slider-heading">DERMA WRINKLES</h1>
+                                <h1 class="slider-heading">ÁCIDO HIALURONCO TÓPICO</h1>
                                 <div class="padding-30">
-                                    <h4>Toxina Botulínica Tipo A 100 UI</h4>
+                                    <h4></h4>
                                 </div>
                                 <div class="main-btn-wrap">
                                     <a href="#" class="main-btn">Conoce más de este producto.</a>

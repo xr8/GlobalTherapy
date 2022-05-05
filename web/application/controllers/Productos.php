@@ -1,5 +1,5 @@
 <?php
-class Inicio extends CI_Controller
+class Productos extends CI_Controller
 {
 //----->
     //--->
@@ -23,8 +23,8 @@ class Inicio extends CI_Controller
             $this->load->view('loop/header', $data);
             $this->load->view('loop/top'   , $data);
             $this->load->view('loop/menuoffcanvas', $data);
-
-                $this->load->view('inicio/all', $data);
+            
+            $this->load->view('productos/all', $data);
 
             $this->load->view('loop/bottom', $data);
             $this->load->view('loop/footer', $data);

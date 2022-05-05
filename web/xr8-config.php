@@ -55,49 +55,46 @@ if ($_SERVER['HTTP_HOST'] == 'localhost') {
 }
 
 //Config Local o Web
-if (ZONA == "local") {
+if       (ZONA == "local"){
   //----->
   define("TITLE", PAGETITLE ."Global Therapy - ");
 
   define("BASE_URL", '//'.$_SERVER['HTTP_HOST'].'/server/DevOps/GlobalTherapy/');
-
-  define("APP_URL",BASE_URL."web/");
+  
+  define("APP_URL",BASE_URL."web/index.php/");
   define("API_URL",BASE_URL."api/");
   define("CDN_URL",BASE_URL."cdn/");
 
-  define("INDEX_PAGE", APP_URL.'index.php/');
+  define("INDEX_PAGE", APP_URL);
   define("DEFAULTROUTER", 'inicio/');
 
-  /*
-  define("HOSTNAME", 'localhost');
-  define("USERNAME", 'root');
-  define("PASSWORD", '12345aeiou');
-  define("DATABASE", 'escuela');
-  */
   define("HOSTNAME", 'labs26.com');
   define("USERNAME", 'escuela');
   define("PASSWORD", '12345aeiou');
   define("DATABASE", 'escuela');
   //----->
-}else if  (ZONA == "ngrok"){
-    //----->
-    //----->
-}else{
-  //----->
+}else if (ZONA == "ngrok"){
+}else if (ZONA == "web")  {
   define("TITLE", PAGETITLE);
 
   define("BASE_URL",'//globaltherapy.com.mx/');
-
-  define("APP_URL","");
+  //define("BASE_URL", '//'.$_SERVER['HTTP_HOST'].'/server/DevOps/GlobalTherapy/');
+  
+  define("APP_URL",BASE_URL);
   define("API_URL","//api.globaltherapy.com.mx/");
   define("CDN_URL","//cdn.globaltherapy.com.mx/");
+  
+  /*
+  define("APP_URL",BASE_URL."web/index.php/");
+  define("API_URL",BASE_URL."api/");
+  define("CDN_URL",BASE_URL."cdn/");
+  */
 
-  define("INDEX_PAGE"    ,APP_URL.'');
+  define("INDEX_PAGE", APP_URL);
   define("DEFAULTROUTER" ,'inicio');
 
   define("HOSTNAME", 'labs26.com');
   define("USERNAME", 'escuela');
   define("PASSWORD", '12345aeiou');
   define("DATABASE", 'escuela');
-  //----->
-}
+}else{}

@@ -1,0 +1,27 @@
+INFO - 2022-05-22 23:49:14 --> Config Class Initialized
+INFO - 2022-05-22 23:49:14 --> Hooks Class Initialized
+INFO - 2022-05-22 23:49:14 --> UTF-8 Support Enabled
+INFO - 2022-05-22 23:49:14 --> Utf8 Class Initialized
+INFO - 2022-05-22 23:49:14 --> URI Class Initialized
+INFO - 2022-05-22 23:49:14 --> Router Class Initialized
+INFO - 2022-05-22 23:49:14 --> Output Class Initialized
+INFO - 2022-05-22 23:49:15 --> Security Class Initialized
+INFO - 2022-05-22 23:49:15 --> Input Class Initialized
+INFO - 2022-05-22 23:49:15 --> Language Class Initialized
+INFO - 2022-05-22 23:49:15 --> Loader Class Initialized
+INFO - 2022-05-22 23:49:15 --> Helper loaded: url_helper
+INFO - 2022-05-22 23:49:16 --> Helper loaded: string_helper
+INFO - 2022-05-22 23:49:16 --> Helper loaded: date_helper
+INFO - 2022-05-22 23:49:16 --> Helper loaded: array_helper
+INFO - 2022-05-22 23:49:16 --> Helper loaded: security_helper
+INFO - 2022-05-22 23:49:16 --> Helper loaded: text_helper
+INFO - 2022-05-22 23:49:16 --> Helper loaded: session_helper
+INFO - 2022-05-22 23:49:16 --> Controller Class Initialized
+INFO - 2022-05-22 23:49:16 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/header.php
+INFO - 2022-05-22 23:49:16 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/top.php
+INFO - 2022-05-22 23:49:16 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/menuoffcanvas.php
+INFO - 2022-05-22 23:49:16 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\productos/all.php
+INFO - 2022-05-22 23:49:16 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/bottom.php
+INFO - 2022-05-22 23:49:17 --> File loaded: D:\Local\Server\DevOps\GlobalTherapy\web\application\views\loop/footer.php
+INFO - 2022-05-22 23:49:17 --> Final output sent to browser
+INFO - 2022-05-22 23:49:17 --> Total execution time: 3.1649

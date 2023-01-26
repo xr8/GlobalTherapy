@@ -879,7 +879,7 @@
                             </li>
                             <li>
                                 <span class="icon"> <i class="fas fa-map-marker-alt"></i></span>Ensenada Baja California, México.
-                            </li>/li>                            
+                            </li>                         
                         </ul>
                         <div class="footer-social-icon">
                             <a class="icon" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>

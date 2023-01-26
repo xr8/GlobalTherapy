@@ -869,13 +869,17 @@
                                 <span class="icon"><i class="far fa-envelope"></i></span> ventas@globaltherapy.com.mx
                             </li>
                             <li>
-                            <span class="icon"><i class="fas fa-phone"></i></span>ENSENADA +52 (646) 136 8555
-                            <span class="icon"><i class="fas fa-phone"></i></span>CDMX     +52 (1)   55 2070 5849
+                                <span class="icon"><i class="fas fa-phone"></i></span>ENSENADA +52 (646) 136 8555
                             </li>
                             <li>
+                                <span class="icon"><i class="fas fa-phone"></i></span>CDMX     +52 (1)   55 2070 5849
+                            </li>                            
+                            <li>
                                 <span class="icon"> <i class="fas fa-map-marker-alt"></i></span>Polanco             CDMX, México.
-                                <span class="icon"> <i class="fas fa-map-marker-alt"></i></span>Ensenada Baja California, México.
                             </li>
+                            <li>
+                                <span class="icon"> <i class="fas fa-map-marker-alt"></i></span>Ensenada Baja California, México.
+                            </li>/li>                            
                         </ul>
                         <div class="footer-social-icon">
                             <a class="icon" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>

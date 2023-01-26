@@ -889,7 +889,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="footer-widget widget widget_nav_menu">
                         <h4 class="widget-title">Nuestros Productos</h4>
                         <ul>
@@ -899,7 +899,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="footer-widget widget widget_nav_menu">
                         <h4 class="widget-title">Acerca De Nosotros</h4>
                         <ul>
@@ -908,25 +908,6 @@
                             <li><a href="#">GLOBAL THERAPY           </a></li>
                             <li><a href="#">Contacto                 </a></li>
                         </ul>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="subscribe-area">
-                        <div class="footer-widget widget">
-                            <h4 class="widget-title">Ventas Y Distribución</h4>
-                            <p>Nos ponemos en contacto contigo dejamos tu email</p>
-                            <p>a la brevedad nos comunicaremos.</p>
-                            <form>
-                                <div class="input-group">
-                                    <input type="email" class="form-control" placeholder="Em@il">
-                                    <div class="input-group-append">
-                                        <div class="input-group-text">
-                                            <input type="submit" value="Subscribe">
-                                        </div>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
                     </div>
                 </div>
             </div>

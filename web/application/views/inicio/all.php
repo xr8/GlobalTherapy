@@ -866,12 +866,14 @@
                         <a href="#"><img src="<?php echo $logo; ?>" alt="Nav Logo" style="height: 75px;"></a>
                         <ul>
                             <li>
-                                <span class="icon"><i class="far fa-envelope"></i></span> ventas@globaltherapy.com.mx/
+                                <span class="icon"><i class="far fa-envelope"></i></span> ventas@globaltherapy.com.mx
                             </li>
                             <li>
-                                <span class="icon"><i class="fas fa-phone"></i></span>+52 (646) 1234567
+                            <span class="icon"><i class="fas fa-phone"></i></span>ENSENADA +52 (646) 136 8555
+                            <span class="icon"><i class="fas fa-phone"></i></span>CDMX     +52 (1)   55 2070 5849
                             </li>
                             <li>
+                                <span class="icon"> <i class="fas fa-map-marker-alt"></i></span>Polanco             CDMX, México.
                                 <span class="icon"> <i class="fas fa-map-marker-alt"></i></span>Ensenada Baja California, México.
                             </li>
                         </ul>
@@ -931,9 +933,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="copyright-area-inner" style="background-color:white;">
-                        <span>&copy; Copyright 2022 GLOBAL THERAPY INTERNACIONAL</span>
+                        <span>&copy; Copyright 2022-2023 GLOBAL THERAPY INTERNACIONAL</span>
                         <br>
-                        <span>Made with  <span class="coypright-icon"><i class="fas fa-heart"></i></span>in Ensenada BC, MX.</span>
+                        <span>Made with  <span class="coypright-icon"><i class="fas fa-heart"></i></span>in CDMX, MX.</span>
                     </div>
                 </div>
             </div>

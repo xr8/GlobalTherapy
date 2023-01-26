@@ -32,7 +32,7 @@
 <!--Search Popup End Here-->
 
 <!--Side Nav Start Here-->
-<div class="sidenav" style="background-image: url(<?php echo CDN_URL;?>img/inicio/ensenada-1.jpg);background-size: cover;">
+<div class="sidenav" style="background-image: url(<?php echo CDN_URL+$bgImg;?>);background-size: cover;">
     <div class="sidenav-wrap">
         <div class="logo-area">
             <div class="logo">
